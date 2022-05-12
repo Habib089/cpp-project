@@ -2,7 +2,7 @@
 using namespace std;
 
 const int MAX_SPECIALIZATION = 20;
-const int MAX_QUEUE = 10;
+const int MAX_QUEUE = 5;
 
 string names[MAX_SPECIALIZATION][MAX_QUEUE];
 int status[MAX_SPECIALIZATION][MAX_QUEUE];
